@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bubble-sort/bubble-sort.iml" filepath="$PROJECT_DIR$/bubble-sort/bubble-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fatorial/fatorial.iml" filepath="$PROJECT_DIR$/fatorial/fatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soma-dos-multiplos/soma-dos-multiplos.iml" filepath="$PROJECT_DIR$/soma-dos-multiplos/soma-dos-multiplos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tinova2.0.iml" filepath="$PROJECT_DIR$/.idea/tinova2.0.iml" />
+    </modules>
+  </component>
+</project>
